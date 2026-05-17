@@ -1,4 +1,4 @@
-# 👋 Welcome! I'm Hero9125
+# 👋 Welcome! I'm Tejpratap Yadav
 
 **Full-Stack Developer | AI & SEO Specialist | Streamlit Tools Developer**
 
