@@ -25,7 +25,7 @@ Building scalable web applications and AI-driven automation systems. Specialized
 
 ## 💼 Professional Summary
 
-Results-driven **Senior Software Developer** with **6.6+ years** of proven expertise in building scalable, high-performance web applications and AI-driven automation systems. 
+Results-driven **Senior Software Developer** with **7+ years** of proven expertise in building scalable, high-performance web applications and AI-driven automation systems. 
 
 **Key Achievements:**
 - 🚀 Led development of **AI-powered social media automation platform** (SaaS CMS)
