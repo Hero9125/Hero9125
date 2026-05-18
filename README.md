@@ -1,6 +1,6 @@
 # 👋 Welcome! I'm Tejpratap Yadav
 
-**Senior Laravel & Full-Stack Developer | AI Automation Specialist | 6.6+ Years Experience**
+**Senior Laravel & Full-Stack Developer | AI Automation Specialist | 7+ Years Experience**
 
 Building scalable web applications and AI-driven automation systems. Specialized in Laravel, Node.js, React.js, and modern AI integrations. Currently leading development of AI-powered social media automation platforms at Envigo Marketing.
 
